@@ -1,0 +1,13 @@
+.background {
+    height: 100%;
+    background-image: url("{% static 'images/network-connection-background_23-2148899874.avif' %}");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* gap: 10%; */
+}
